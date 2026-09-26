@@ -234,7 +234,7 @@ Built to strengthen JavaScript logic-building and DOM manipulation skills.
 | Project | Type | Technologies | Repository |
 |---|---|---|---|
 | Bio-data Website | Personal Info Site | HTML, CSS, JS | [Link](https://github.com/roshankumar830/Bio-data-website) |
-| Sarkari Portal | Informational Portal | HTML, CSS, JS | [Link](https://github.com/roshankumar830/sarkari-portal) |
+| Sarkari Portal | Informational Portal | HTML, CSS, JS | [Link](https://roshankumar830.github.io/sarkari-portal/) |
 | School Project | Academic Project | HTML, CSS, JS | [Link](https://github.com/roshankumar830/school-project-) |
 | First Shopping Web | E-commerce UI | HTML, CSS, JS | [Link](https://github.com/roshankumar830/FirstShoopingWEb) |
 | Tools | Utility Tools | HTML, CSS, JS | [Link](https://github.com/roshankumar830/tools) |
