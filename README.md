@@ -26,7 +26,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 My name is **Roshan Kumar Suman**, a **BCA final-year student**
+- 🎓 My Name is **Roshan Kumar Suman**, a **BCA final-year student**
 - 🏫 I study at **Sandip University, Madhubani, Bihar**
 - 💻 I am a **Frontend Developer** with a strong interest in modern web technologies
 - 🎨 I enjoy building **responsive and modern websites**
