@@ -64,7 +64,7 @@
 - 🏫 **School Project** — [GitHub](https://github.com/roshankumar830/school-project-)
 - 🛒 **First Shopping Web** — [GitHub](https://github.com/roshankumar830/FirstShoopingWEb)
 - 🧰 **Tools** — [GitHub](https://github.com/roshankumar830/tools)
-- 🌐 **Portfolio** — [GitHub](https://github.com/roshankumar830/portfolio)
+- 🌐 **Portfolio** — [GitHub](https://roshankumar830.github.io/portfolio/)
 - 🧮 **Calculator** — [GitHub](https://github.com/roshankumar830/calculator)
 
 <br/>
