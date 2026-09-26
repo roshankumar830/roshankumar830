@@ -60,7 +60,7 @@
 ## 🚀 Featured Projects
 
 - 🧾 **Bio-data Website** — [GitHub](https://github.com/roshankumar830/Bio-data-website)
-- 🏛️ **Sarkari Portal** — [GitHub](https://github.com/roshankumar830/sarkari-portal)
+- 🏛️ **Sarkari Portal** — [GitHub](https://roshankumar830.github.io/sarkari-portal/)
 - 🏫 **School Project** — [GitHub](https://github.com/roshankumar830/school-project-)
 - 🛒 **First Shopping Web** — [GitHub](https://github.com/roshankumar830/FirstShoopingWEb)
 - 🧰 **Tools** — [GitHub](https://github.com/roshankumar830/tools)
