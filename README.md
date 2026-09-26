@@ -238,7 +238,7 @@ Built to strengthen JavaScript logic-building and DOM manipulation skills.
 | School Project | Academic Project | HTML, CSS, JS | [Link](https://github.com/roshankumar830/school-project-) |
 | First Shopping Web | E-commerce UI | HTML, CSS, JS | [Link](https://github.com/roshankumar830/FirstShoopingWEb) |
 | Tools | Utility Tools | HTML, CSS, JS | [Link](https://github.com/roshankumar830/tools) |
-| Portfolio | Personal Portfolio | HTML, CSS, JS | [Link]((https://roshankumar830.github.io/portfolio/) |
+| Portfolio | Personal Portfolio | HTML, CSS, JS | [Link]((ttps://roshankumar830.github.io/portfolio/) |
 | Calculator | Web Application | HTML, CSS, JS | [Link](https://github.com/roshankumar830/calculator) |
 
 <br/>
