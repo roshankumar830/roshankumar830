@@ -61,7 +61,7 @@
 
 - 🧾 **Bio-data Website** — [GitHub](https://github.com/roshankumar830/Bio-data-website)
 - 🏛️ **Sarkari Portal** — [GitHub](https://roshankumar830.github.io/sarkari-portal/)
-- 🏫 **School Project** — [GitHub](https://github.com/roshankumar830/school-project-)
+- 🏫 **School Project** — [GitHub](https://roshankumar830.github.io/school-project-/)
 - 🛒 **First Shopping Web** — [GitHub](https://github.com/roshankumar830/FirstShoopingWEb)
 - 🧰 **Tools** — [GitHub](https://github.com/roshankumar830/tools)
 - 🌐 **Portfolio** — [GitHub](https://roshankumar830.github.io/portfolio/)
@@ -133,7 +133,7 @@ HTML • CSS • JavaScript
 **Purpose:**
 Created to apply frontend development concepts learned during coursework.
 
-[View Repository](https://github.com/roshankumar830/school-project-)
+[View Repository](https://roshankumar830.github.io/school-project-/)
 
 </details>
 
@@ -235,7 +235,7 @@ Built to strengthen JavaScript logic-building and DOM manipulation skills.
 |---|---|---|---|
 | Bio-data Website | Personal Info Site | HTML, CSS, JS | [Link](https://github.com/roshankumar830/Bio-data-website) |
 | Sarkari Portal | Informational Portal | HTML, CSS, JS | [Link](https://roshankumar830.github.io/sarkari-portal/) |
-| School Project | Academic Project | HTML, CSS, JS | [Link](https://github.com/roshankumar830/school-project-) |
+| School Project | Academic Project | HTML, CSS, JS | [Link](https://roshankumar830.github.io/school-project-/) |
 | First Shopping Web | E-commerce UI | HTML, CSS, JS | [Link](https://github.com/roshankumar830/FirstShoopingWEb) |
 | Tools | Utility Tools | HTML, CSS, JS | [Link](https://github.com/roshankumar830/tools) |
 | Portfolio | Personal Portfolio | HTML, CSS, JS |[link](https://roshankumar830.github.io/portfolio/)|
